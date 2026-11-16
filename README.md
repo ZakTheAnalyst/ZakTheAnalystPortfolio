@@ -1,11 +1,11 @@
-#🍫 Chocolate Factory Sales Analysis
+#Chocolate Factory Sales Analysis
 
 > An end-to-end sales performance analysis for a chocolate manufacturing business, translating raw transactional data into executive-ready insights on revenue drivers, regional performance, and product profitability.
 
 This project analyzes sales, product, and regional performance data for a chocolate manufacturing business to uncover where revenue is being won, where margin is being lost, and which levers leadership can pull to grow profitably. It was built to simulate a real analytics engagement 
 — from data cleaning through to a decision-ready dashboard — with the explicit goal of supporting commercial and operational decision-making, not just describing historical data.
 
-##📌 Business Problem
+##Business Problem
 Chocolate manufacturers typically sell across multiple product lines, regions, and sales channels — but without a consolidated view of performance, leadership teams are often forced to make decisions on gut feel rather than evidence.
 
 The core problem: sales data exists, but it isn't organized in a way that answers the questions that matter — which products drive profit, which regions are underperforming, and where is revenue being left on the table.
